@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\bin\Debug\net6.0\RecetasBack.deps.json
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\bin\Debug\net6.0\RecetasBack.dll
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\bin\Debug\net6.0\RecetasBack.pdb
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.dll
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\refint\RecetasBack.dll
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\RecetasBack.pdb
+C:\Users\Administrador\Desktop\Final_Prog-2-master\Alta_recetas\RecetasBack\obj\Debug\net6.0\ref\RecetasBack.dll
